@@ -1,0 +1,10 @@
+This Arp Pinger tool developed by zThyphon.
+
+I know it is a basic tool (because it is my first cybersecurity tool). I'll improve myself and I'll add more complex
+cybersecurity tools to github (https://github.com/zThyphon) in time.
+
+Usage
+Linux:
+1) Go arppinger.py location
+2) Use this command: python arppinger.py -i ip_address/24
+For example: python arppinger.py -i 192.168.1.1/24
